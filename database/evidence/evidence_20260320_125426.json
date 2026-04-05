@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 12:54:26 2026",
+    "src_ip": "2402:8100:21ee:e0b5:942b:6429:1fde:15f2",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 7.481942578527777,
+    "severity": 35,
+    "confidence": 0,
+    "country": "India",
+    "isp": "Vodafone Idea Ltd",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

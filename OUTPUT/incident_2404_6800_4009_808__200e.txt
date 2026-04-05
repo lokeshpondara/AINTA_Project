@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-20 12:53:38.039795
+
+Attacker IP : 2404:6800:4009:808::200e
+Attack Type : Slow Attack
+Severity    : 20
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

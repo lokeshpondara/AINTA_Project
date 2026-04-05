@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 15:06:39 2026",
+    "src_ip": "2603:1036:302:4833::2",
+    "attack": "Slow Attack",
+    "packet_rate": 2.5191206742507872,
+    "severity": 5,
+    "location": {
+        "country": "United States",
+        "city": "Washington",
+        "lat": 38.7095,
+        "lon": -78.1539
+    }
+}

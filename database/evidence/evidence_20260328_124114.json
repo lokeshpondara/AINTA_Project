@@ -1,0 +1,15 @@
+{
+    "timestamp": "Sat Mar 28 12:41:14 2026",
+    "src_ip": "199.232.46.172",
+    "attack": "Port Scan",
+    "packet_rate": 62.71579739474238,
+    "severity": 35,
+    "confidence": 0,
+    "country": "Singapore",
+    "isp": "Unknown",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "reason": [
+        "Multiple ports accessed"
+    ]
+}

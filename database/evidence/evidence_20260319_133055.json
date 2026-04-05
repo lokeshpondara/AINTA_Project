@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:30:55 2026",
+    "src_ip": "172.20.10.2",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 10.042365411936379,
+    "severity": 35,
+    "confidence": 0,
+    "country": "unknown",
+    "isp": "Internal",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

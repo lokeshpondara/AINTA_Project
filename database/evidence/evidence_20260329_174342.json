@@ -1,0 +1,11 @@
+{
+    "timestamp": "Sun Mar 29 17:43:42 2026",
+    "src_ip": "13.69.116.105",
+    "attack": "Suspicious Activity",
+    "packet_rate": 0.8455908505748304,
+    "severity": 40,
+    "confidence": 17,
+    "country": "The Netherlands",
+    "threat_score": 28,
+    "priority": "MEDIUM"
+}

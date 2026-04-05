@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:11:16 2026",
+    "src_ip": "2a04:4e42:56::684",
+    "attack": "Data Exfiltration",
+    "packet_rate": 37.321643968611745,
+    "severity": 25,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Fastly, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 16:02:19 2026",
+    "src_ip": "199.232.94.132",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 5.329019002996935,
+    "severity": 5,
+    "location": {
+        "country": "United States",
+        "city": "Miami",
+        "lat": 25.7701,
+        "lon": -80.1928
+    }
+}

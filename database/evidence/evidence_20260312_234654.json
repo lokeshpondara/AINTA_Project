@@ -1,0 +1,7 @@
+{
+    "timestamp": "Thu Mar 12 23:46:54 2026",
+    "src_ip": "13.107.137.11",
+    "attack": "Suspicious Traffic",
+    "packet_rate": 97.54367477402074,
+    "severity": 10
+}

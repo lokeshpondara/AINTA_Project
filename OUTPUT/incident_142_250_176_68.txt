@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-13 16:48:27.169155
+
+Attacker IP : 142.250.176.68
+Attack Type : Possible DDoS Attack
+Severity    : 80
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

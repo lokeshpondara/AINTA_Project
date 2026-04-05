@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:09:15 2026",
+    "src_ip": "2a04:4e42:56::684",
+    "attack": "Possible DDoS Attack",
+    "packet_rate": 11135.552223888057,
+    "severity": 80,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Fastly, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

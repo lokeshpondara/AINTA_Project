@@ -1,0 +1,14 @@
+scapy
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
+pydeck
+requests
+joblib
+plotly
+torch
+torch-geometric
+pyyaml
+pywin32

@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:42:15 2026",
+    "src_ip": "172.20.10.2",
+    "attack": "Suspicious Traffic",
+    "packet_rate": 47.342243327385134,
+    "severity": 15,
+    "confidence": 0,
+    "country": "unknown",
+    "isp": "Internal",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

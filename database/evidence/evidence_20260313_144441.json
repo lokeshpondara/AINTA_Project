@@ -1,0 +1,8 @@
+{
+    "timestamp": "Fri Mar 13 14:44:41 2026",
+    "src_ip": "2606:4700::6812:1a30",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 6.169801850298239,
+    "severity": 10,
+    "location": null
+}

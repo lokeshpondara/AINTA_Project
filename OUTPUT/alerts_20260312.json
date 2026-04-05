@@ -1,0 +1,5147 @@
+[
+    {
+        "timestamp": "Thu Mar 12 23:16:07 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 7598.376811594203,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:08 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 10126.639363319324,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 8.17913086911609,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:13 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 8.743666581745094,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:18 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 15.57756413422443,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:18 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 13.783769762978913,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:18 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4248.954343801306,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:19 2026",
+        "src_ip": "20.207.73.85",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4847.038520801233,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:19 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 2582.0879859828574,
+        "severity": 40
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:24 2026",
+        "src_ip": "20.207.73.85",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 7.619808838619632,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:24 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 6.168243521469378,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:24 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 15.417491391077029,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:24 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 13.392222579529056,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:24 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 3.62568994627729,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:25 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 3.6276915862250774,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:30 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 13.225347497366498,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:30 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 11.516420417501713,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:36 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 14.166071015034289,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:36 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 14.368191344044737,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:41 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 7957.153456998313,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:41 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 15.116816855454656,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:42 2026",
+        "src_ip": "2603:1030:a07:9::320",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 6513.376026029727,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:42 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 13.50456090679252,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:47 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 12.312927824133723,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:47 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 13.876238934577945,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:52 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 11.53597382042628,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:52 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 13.273805608973834,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:52 2026",
+        "src_ip": "20.207.73.85",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3916615723911667,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:52 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.095562452868843,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:57 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 11.014275826846806,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:57 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2581245293110792,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:57 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.258208676917431,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:16:57 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 12.732678193919876,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:02 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 12.329797351208745,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:02 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 10.662254958587598,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:02 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.176314110928585,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:02 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9044009177148664,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:07 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0917881272176264,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:07 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8075814698853843,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:07 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 12.098042599745714,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:07 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 10.374494240363024,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:13 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 11.357328313717172,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 13.427665393680767,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0222177824959147,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:13 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7281597892716247,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:18 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.964879959011572,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:18 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 12.812861500677755,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:18 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.662667512754188,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:18 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 10.807447827917194,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:23 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9173138730067745,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:23 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 12.20579830199184,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:23 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6390594351187688,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:23 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 10.308041851674894,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 11.74821423577439,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8768427084597796,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:28 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 9.944599223348058,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:28 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6190140528877988,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:33 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 11.296860938745402,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:33 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8415617805906543,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:33 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 9.530711095830108,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:33 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6014224008838773,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:38 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 12238.48603584827,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:38 2026",
+        "src_ip": "2603:1030:a07:9::320",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 8900.604688763136,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:38 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 10.91788013727251,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:38 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 9.206588545291345,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:38 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8109363402335439,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:38 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5612130603562524,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:43 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 10.532011451350082,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:43 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 8.870729459253651,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:43 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7828591200247135,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:43 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5248670202840295,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 10.248377546903647,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:49 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 8.611772338323748,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7589542954540385,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:49 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5156120813637677,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 14656.355190133607,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:50 2026",
+        "src_ip": "34.49.39.67",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 14369.844417573559,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:55 2026",
+        "src_ip": "2620:1ec:bdf::72",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 8025.281614193773,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:55 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 9.83178060408235,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:55 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 8.23747750175621,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:55 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7547438345452557,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:17:56 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4864177451460203,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:01 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 7.988211591400355,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:01 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 9.523018972809355,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:01 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7477932766067588,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:01 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4744353477357492,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:06 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7849264703437733,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:06 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.468889234503784,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:11 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 10.294964648054126,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:11 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 8.63117215895999,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:11 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7827066717310271,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:11 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.463433303522419,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:16 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8137517213399574,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:16 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4747698487840597,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:16 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 11069.546814125926,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:16 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 9505.821623783495,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:18 2026",
+        "src_ip": "2600:9000:247f:c200:17:e928:1d00:93a1",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 10872.70021347972,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:18 2026",
+        "src_ip": "2600:9000:247f:c200:17:e928:1d00:93a1",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 10932.715118061944,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:23 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5146686049774951,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:23 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7871051825156161,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:28 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.19997503592281124,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:29 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.209109991449938,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:29 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8329262607380663,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:29 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5403101467324605,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:34 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8352800632248545,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:34 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5257514460623285,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:39 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8190050063583327,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:39 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5063958541695934,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:39 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 16914.716274229217,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:39 2026",
+        "src_ip": "2620:1ec:bdf::72",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 22915.621729667302,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:44 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.2250785795930796,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:44 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.23507960317786816,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:44 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8027638623789335,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:44 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5011901223120783,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7877561051701236,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:49 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.24739358445273968,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:49 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.23687965121646112,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:49 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4832096020151204,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 13353.17962466488,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:49 2026",
+        "src_ip": "34.49.39.67",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 14560.894573360132,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:54 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7730541893513585,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:54 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4786402136041592,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:59 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 7.4207248103501495,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:18:59 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 6.222358865341653,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:00 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7729535640434841,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:00 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4754225746860954,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:00 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.2402634535548039,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:00 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.25031541486981745,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:05 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.4529004671008626,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:05 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7590662154727,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:05 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.458908378384921,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:10 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7472876321963111,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:10 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 7.83327367798555,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:10 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4444306444394044,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:10 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 6.572150586424229,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:15 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 7.719971088299792,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:15 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 6.461540138824995,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:15 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7357877578327128,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:15 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.430494512158091,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:20 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7581210698920233,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:20 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4394864384076065,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:25 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.22029546176891404,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:25 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.21325803836664287,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:25 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7478633876804448,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:25 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0281349036551166,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:25 2026",
+        "src_ip": "2620:1ec:bdf::72",
+        "attack": "Slow Attack",
+        "packet_rate": 2.675407734174356,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:25 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4271773529577239,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:30 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.2515955112435795,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:30 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.23292534782064134,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:31 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7367091724701118,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:31 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4143484111151223,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:36 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7572851472674278,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:36 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4129406180994926,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:36 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.2604774820011927,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:36 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.24181345710212676,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:41 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7472943825257883,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:41 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4018034617242534,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:46 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7383003881446843,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:46 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3916231158556098,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:51 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4875.737003626895,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:51 2026",
+        "src_ip": "34.49.39.67",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 6080.775029848201,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:51 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.24270106714210643,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:51 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.31363173675549916,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:51 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.27531748178035315,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:51 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.729654128683181,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:51 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3818620291815822,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:56 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 12438.025807485774,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:57 2026",
+        "src_ip": "52.191.219.104",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 18209.15278034362,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:57 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 4.862517298866855,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:57 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 13558.003620377554,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:57 2026",
+        "src_ip": "52.191.219.104",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 11023.990105132962,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:57 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7193571887198198,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:57 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.370917588808523,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:57 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 15380.897959183674,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:57 2026",
+        "src_ip": "52.191.219.104",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 11832.483444691909,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:57 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 6.342176626428944,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:19:57 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 5.309023668399142,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:02 2026",
+        "src_ip": "52.191.219.104",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4888.4662004662005,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "52.168.117.169",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 9207.457924776818,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 13789.048153161864,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 9536.844020009095,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "52.191.219.104",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 8836.314606741573,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7249924328139525,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3674977481800086,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 5793.533943827697,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4450.570734211878,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 3959.0016005253005,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "52.191.219.104",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 6768.240975376524,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "52.191.219.104",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 3767.4642536345186,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "52.191.219.104",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 3606.7787282190543,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:03 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 11554.556473829201,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:08 2026",
+        "src_ip": "20.24.143.250",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 8034.332208337134,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:13 2026",
+        "src_ip": "52.191.219.104",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4715.807234520994,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4792.545941686367,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:13 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 5.587047384624193,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 6.519557579453725,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 5615.700089259149,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.676725867170853,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:13 2026",
+        "src_ip": "52.191.219.104",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 5891.270416694536,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:13 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3354215983612598,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:18 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6771241933433085,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:18 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.335041128711058,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:23 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6709270793936686,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:23 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.327770789462446,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6967018885310114,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:28 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3525755427084913,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 21131.71201040143,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:31 2026",
+        "src_ip": "20.42.73.28",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 16887.75402635432,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:36 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.17120103714566703,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:36 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6926390956084014,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:36 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.344056429231082,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:36 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.23922730005865697,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:36 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.2691285152458663,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:42 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6934987277685976,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:42 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3441833045338791,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:42 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.32964503587358746,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:42 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.2830184520908574,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:47 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 6486.132638183184,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:47 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 11203.62168579343,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:47 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 11841.626199887069,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:47 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4220.739155765054,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:50 2026",
+        "src_ip": "20.42.73.24",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 7033.760249812062,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:50 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.31047949396393587,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:50 2026",
+        "src_ip": "20.42.73.24",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 6095.439498240783,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:50 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.3496906217008523,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:50 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6865297903645247,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:50 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3291382411479093,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:55 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 13192.400922625287,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:55 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 5855.383982365907,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:55 2026",
+        "src_ip": "20.199.39.224",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 13325.088437384558,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:55 2026",
+        "src_ip": "20.199.39.224",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 6059.072739632903,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:56 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 12655.79190510873,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:56 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7348393017080967,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:56 2026",
+        "src_ip": "20.42.73.28",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 11313.307492507492,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:20:56 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3589709432783552,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:01 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 5.458692706992532,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:01 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 4.678400663943169,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:01 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7380285866849752,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:01 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3557481401936093,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:08 2026",
+        "src_ip": "131.253.33.203",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 18396.070175438595,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:08 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7311450361591052,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:08 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.29367424193118474,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:08 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.3295989283387341,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:08 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.348777807024868,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:13 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 4.952931542465131,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 5.6958616493493235,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7140016482005116,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:13 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.333876649107175,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:13 2026",
+        "src_ip": "20.199.39.224",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1137929487889149,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2251425405555085,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:20 2026",
+        "src_ip": "2001:4860:4802:38::223",
+        "attack": "Slow Attack",
+        "packet_rate": 0.09041699017364478,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:20 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7073934259388865,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:20 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3339137027526735,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:20 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.1374504627765842,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:25 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6927006715699962,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:25 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3209066568319752,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:30 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.687558524939723,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:30 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3218267616559223,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:30 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8352803753116731,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:35 2026",
+        "src_ip": "20.42.73.24",
+        "attack": "Slow Attack",
+        "packet_rate": 0.6217833186549672,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:35 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6822146381234013,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:35 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3161166136761149,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:35 2026",
+        "src_ip": "2001:4860:4802:38::223",
+        "attack": "Slow Attack",
+        "packet_rate": 0.08866110035650096,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:35 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.08866116019078848,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:35 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.2701725323713095,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:40 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.2969379053793937,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:40 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.26891163866701645,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:40 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0132649127813425,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:40 2026",
+        "src_ip": "20.199.39.224",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9692112858022108,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:40 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6766285660954556,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:40 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.310266410491428,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:45 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6773381488891732,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:45 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3107190003476155,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:51 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 7710.951443711474,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:51 2026",
+        "src_ip": "34.49.39.67",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 7507.177089913666,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:51 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.672700311308431,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:51 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.299664285043928,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:51 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 18224.365626005794,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:51 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 24109.394182198223,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:56 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 5929.120837696335,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:56 2026",
+        "src_ip": "51.132.193.105",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4885.990275526742,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:56 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6674131967073564,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:56 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.08430626900185953,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:56 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2942507782393178,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:56 2026",
+        "src_ip": "2001:4860:4802:38::223",
+        "attack": "Slow Attack",
+        "packet_rate": 0.08606508321532787,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:21:56 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.08606513392518123,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:01 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.2611892192213723,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:01 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.28721515991304514,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:01 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6956181762646967,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:01 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3052309883752857,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:07 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.11284075708507887,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:07 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6905729012143478,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:07 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3002312339400142,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:12 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 1754.4145802210935,
+        "severity": 40
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:12 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 5.316979282168804,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:12 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 4.589830757419448,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:12 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6857617478830629,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:12 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3010995233967484,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:12 2026",
+        "src_ip": "34.232.214.120",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4448.459308491833,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:17 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7015663369468792,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:17 2026",
+        "src_ip": "2001:4860:4802:38::223",
+        "attack": "Slow Attack",
+        "packet_rate": 0.0836302003672005,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:17 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.10369465900711296,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:17 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 13713.057046223224,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:18 2026",
+        "src_ip": "198.169.2.129",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 17483.316391017885,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:18 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.306119617474906,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:18 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.408892269299171,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:18 2026",
+        "src_ip": "20.42.73.24",
+        "attack": "Slow Attack",
+        "packet_rate": 0.3425899280939488,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:18 2026",
+        "src_ip": "2600:9000:247f:c200:17:e928:1d00:93a1",
+        "attack": "Slow Attack",
+        "packet_rate": 0.12028528891355728,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:18 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.12028527999225284,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:23 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7046533614531123,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:23 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3045364441551381,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:23 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.5328356546247107,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:23 2026",
+        "src_ip": "20.199.39.224",
+        "attack": "Slow Attack",
+        "packet_rate": 0.5101616108250973,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7051740240687703,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:28 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3052375504879445,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:28 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.2505183746791852,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:28 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.2743172644306646,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3325603614698636,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:33 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7000659440209789,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:33 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3003743371882148,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:33 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.078236154402801,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:39 2026",
+        "src_ip": "2001:4860:4802:38::223",
+        "attack": "Slow Attack",
+        "packet_rate": 0.08150373252720018,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:39 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6955938681017408,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:39 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3012798676645725,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:44 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.24827303436102008,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:44 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.27103949773090247,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:44 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6911861298533024,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:44 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2969320687599202,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:44 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.719038975845248,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6865940531675974,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:49 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.292467815103393,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 20883.589098532495,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:49 2026",
+        "src_ip": "34.49.39.67",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 19778.96477115118,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:54 2026",
+        "src_ip": "20.42.73.24",
+        "attack": "Slow Attack",
+        "packet_rate": 0.25133111401943403,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:54 2026",
+        "src_ip": "20.199.39.224",
+        "attack": "Slow Attack",
+        "packet_rate": 0.4193187471585566,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:54 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.41931808481234684,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:54 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6821669641308359,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:54 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2881557421058891,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:59 2026",
+        "src_ip": "2001:4860:4802:38::223",
+        "attack": "Slow Attack",
+        "packet_rate": 0.07972889729620773,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:59 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 4.707430654401957,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:59 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 4.063972149491426,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:59 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.677744754373371,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:22:59 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2888566189475563,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:23:05 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.6344145844155086,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:23:05 2026",
+        "src_ip": "198.169.2.129",
+        "attack": "Slow Attack",
+        "packet_rate": 0.6767084055564478,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:23:05 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6881209932753183,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:23:05 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 0.26443212210953415,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:23:05 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Slow Attack",
+        "packet_rate": 0.24299011721210334,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:23:05 2026",
+        "src_ip": "20.189.173.1",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2943996976805838,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:29:33 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 10.527106368907667,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:29:38 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 9.635409711849997,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:29:39 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 8.084619627494648,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:29:44 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 9.147442904758655,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:29:44 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 7.561719844395892,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:29:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 9.403759268744523,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:29:49 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 7.821178981945865,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:29:54 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 7.678897191263714,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:29:54 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 9.257263597193635,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:29:55 2026",
+        "src_ip": "2603:1063:2001:2004::365:ff1",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 6899.557948257813,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:31:17 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.7847676992326034,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:31:22 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.797678217014756,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:31:27 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.734293908098116,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:31:32 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.722337717177884,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:31:32 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.4402359836963634,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:32:08 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9029990684432834,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:32:08 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.668646167225693,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:32:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9322785523220476,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:32:13 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7175888115430473,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:32:13 2026",
+        "src_ip": "2600:141b:1c00:37::17d2:5c90",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 9314.268915560726,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:34:46 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 28.454034935510204,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:34:47 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 43.42520777666207,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:34:52 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 212.5140857632461,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:34:52 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 296.2935760836324,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:34:58 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 551.9955874383955,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:34:58 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 423.4159460396231,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:03 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 499.21653958311,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:03 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 642.1965240187944,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:09 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Data Exfiltration",
+        "packet_rate": 705.2529916061826,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:09 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Data Exfiltration",
+        "packet_rate": 541.7729537776493,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:14 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Data Exfiltration",
+        "packet_rate": 807.385433569516,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:15 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Data Exfiltration",
+        "packet_rate": 624.8422944960788,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:20 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Data Exfiltration",
+        "packet_rate": 865.1598740461889,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:20 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Data Exfiltration",
+        "packet_rate": 670.9243778753644,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:26 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Data Exfiltration",
+        "packet_rate": 907.2502758393913,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:26 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Data Exfiltration",
+        "packet_rate": 707.9576268431074,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:31 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Data Exfiltration",
+        "packet_rate": 699.709317268628,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:31 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Data Exfiltration",
+        "packet_rate": 893.3566801611918,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:37 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Data Exfiltration",
+        "packet_rate": 709.233724684095,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:37 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Data Exfiltration",
+        "packet_rate": 903.8773868682741,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:42 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Data Exfiltration",
+        "packet_rate": 905.1312853264192,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:42 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Data Exfiltration",
+        "packet_rate": 698.5644734415575,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:48 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Data Exfiltration",
+        "packet_rate": 679.5154854403745,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:48 2026",
+        "src_ip": "2600:9000:247f:e200:6:edd3:1a00:93a1",
+        "attack": "Data Exfiltration",
+        "packet_rate": 876.1385172312604,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:35:55 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1704924952279931,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:00 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1113386213197707,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:05 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8594755640585146,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:05 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0921786289322462,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:10 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8641498407193222,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:10 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0741209915743484,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:15 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9087294332879392,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:16 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 8151.0627429206,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:17 2026",
+        "src_ip": "13.107.137.11",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 7244.021160842679,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:17 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0789314779777954,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:22 2026",
+        "src_ip": "13.107.137.11",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 107.71197074946726,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:22 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 117.15633668744387,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:23 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.838152249689499,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:23 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1418810496388136,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:28 2026",
+        "src_ip": "13.107.137.11",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 141.20585679780098,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 147.11190062168168,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.939769118610444,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1232243357060279,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:33 2026",
+        "src_ip": "13.107.137.11",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 104.51891850446151,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:33 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 105.5371354405197,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:33 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1144643682791855,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:33 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.96241353560268,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:34 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5614052595486936,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:39 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1108423021962281,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:39 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9598761850011717,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:39 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5532684611639873,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:44 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.982827376444473,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:44 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0970245833297185,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:44 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5768741852349601,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1155012025619275,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:49 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4315.127572016461,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9814166432861218,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:49 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.5761329165560758,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:54 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0081500943562287,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:54 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.589187685332913,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:59 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.013233148744061,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:36:59 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.609191666446449,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:00 2026",
+        "src_ip": "2a04:4e42:b::684",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4494.721464361224,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:05 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0061624767604944,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:05 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0247745109015822,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:05 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6694374064061046,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:05 2026",
+        "src_ip": "2a04:4e42:b::684",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 7885.018172703346,
+        "severity": 60
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:10 2026",
+        "src_ip": "2a04:4e42:b::684",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 14.773544272911588,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:10 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.021151545366557,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:10 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6648664265241304,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:16 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.035356685960807,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:16 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0540343768352758,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:16 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6721296227819513,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:21 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0322449593408063,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:21 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6803924290728454,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:26 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.047302188994235,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:26 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6943218548600294,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:26 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0306601691744683,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:31 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.049790307405027,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:31 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0111631401790395,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:31 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6900833170244058,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:37:41 2026",
+        "src_ip": "13.107.137.11",
+        "attack": "Data Exfiltration",
+        "packet_rate": 21.530942855849766,
+        "severity": 0
+    },
+    {
+        "timestamp": "Thu Mar 12 23:38:43 2026",
+        "src_ip": "2620:1ec:46::72",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 15147.605002156102,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:39:29 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.444756654994207,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:39:34 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.417100210061807,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:39:39 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.4263335416436966,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:39:40 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0954920516822413,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:39:45 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.374429555912756,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:39:45 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0434018998014984,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:39:50 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3728472795817614,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:39:50 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0385074937736074,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:39:55 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.381167141552931,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:39:56 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.043975683345014,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:01 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0475306857705027,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:01 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.425960741309874,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:06 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.978744585147387,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:06 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.34857995267419,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:11 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9941517754640523,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:11 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3470766299065837,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:16 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.329743016742507,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:16 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.94991147491214,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:21 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3143785110067445,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:21 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9259674787963914,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:26 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3076795373850043,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:26 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9036641894989328,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:31 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.2941422902993667,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:31 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8831540503520872,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:37 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.310523917207362,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:37 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9074550811278341,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:42 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3048577555852545,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:42 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8883303277116728,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:47 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3193781607534523,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:47 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8836698986085174,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:52 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.31382566059175,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:52 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8925513665971714,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:57 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3147677063707017,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:40:57 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9007545420875067,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:02 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3032285191725625,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:02 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.889996045164046,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:07 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3103250759178677,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:07 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.891884686317845,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:12 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.2998787985805977,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:12 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8936906756970986,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:17 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3122094749514788,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:18 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9064699089385768,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:23 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.307225794760561,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:23 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8965822729054413,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.313190485464279,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:28 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.903135168722806,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:33 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.273175015498613,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:33 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8584844786501344,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:38 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.895862237039773,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:38 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.2850004610226553,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:43 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.2862937338571303,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:43 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8971453559877263,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:48 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.2781272884665666,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:48 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8889564695139274,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:53 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.2798189912179505,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:53 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8905866529021162,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:59 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.271821069260265,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:41:59 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8962043547465737,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:42:04 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.2690352003644785,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:42:04 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.888660317278681,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:43:48 2026",
+        "src_ip": "2620:1ec:46::40",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 11451.892082002869,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:44:31 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.6051698212651178,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:44:31 2026",
+        "src_ip": "2620:1ec:46::40",
+        "attack": "Slow Attack",
+        "packet_rate": 1.429385174912621,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:44:36 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.5278680318683993,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:44:41 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.4922875208278783,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:44:46 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.473115552928666,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:44:47 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0944503897417674,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:44:52 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.4344346181457226,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:44:52 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0676070020000044,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:44:57 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.4183413395841287,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:44:57 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.060849846068915,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:02 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.384140101510982,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:02 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0350134479372683,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:07 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.391235919656579,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:07 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.030662694604192,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:12 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0087009700626903,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:12 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.316333836064837,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:43 2026",
+        "src_ip": "20.190.190.129",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 2979.412914792139,
+        "severity": 55
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:43 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 5322.214256257336,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:49 2026",
+        "src_ip": "2600:141b:1c00:d::172c:6f3b",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 37.98825498675187,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:49 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 34.25659430731625,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:50 2026",
+        "src_ip": "2603:1046:900:40::2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 6463.728413811587,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:50 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4785.434496369046,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:55 2026",
+        "src_ip": "2600:141b:1c00:d::172c:6f3b",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 18.918074272724716,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:55 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 17.12691745919305,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:55 2026",
+        "src_ip": "2600:141b:1c00:d::172c:6f3b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 6773.908840770427,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:55 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.6792300713215786,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:45:55 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.4570736539235585,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:10 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.603948672297759,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:10 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.413851402313202,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:15 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 6.52737554433396,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:15 2026",
+        "src_ip": "2600:141b:1c00:d::172c:6f3b",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 7.229711273252134,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:36 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 12282.180974747036,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:39 2026",
+        "src_ip": "13.107.137.11",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 9949.780247522598,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:44 2026",
+        "src_ip": "13.107.137.11",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 71.26716486186595,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:44 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 79.4391599520735,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:49 2026",
+        "src_ip": "13.107.137.11",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 60.660062332074965,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 69.4210902965665,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:54 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 106.92267479559638,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:54 2026",
+        "src_ip": "13.107.137.11",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 97.54367477402074,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:55 2026",
+        "src_ip": "2603:1063:27:1::14",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 2355.5903306367777,
+        "severity": 55
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:55 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.275939783923525,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:46:55 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.125211822021239,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:00 2026",
+        "src_ip": "13.107.137.11",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 75.4279138169632,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:00 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 82.6642698366219,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:10 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2450730793739389,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:10 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.109167021465084,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:15 2026",
+        "src_ip": "2603:1046:900:40::2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.4020584896371586,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:15 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 4511.051588223072,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:18 2026",
+        "src_ip": "2600:141b:1c00:d::172c:6f3d",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 5730.678079936788,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:28 2026",
+        "src_ip": "2600:141b:1c00:d::172c:6f3d",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 8.31317610466391,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:33 2026",
+        "src_ip": "2600:141b:1c00:d::172c:6f3d",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 6.131729111193241,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:53 2026",
+        "src_ip": "2600:141b:1c00:d::172c:6f3d",
+        "attack": "Slow Attack",
+        "packet_rate": 2.9935881393092485,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:58 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0312336514158653,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:47:58 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9190638648620095,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:48:03 2026",
+        "src_ip": "13.107.137.11",
+        "attack": "Data Exfiltration",
+        "packet_rate": 20.80348161562293,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:48:08 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0468887764689598,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:48:08 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9282422598968338,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:48:54 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9068386599753938,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:48:54 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8044053391545465,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:49:09 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9130543780937209,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:49:09 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8093635939361725,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:49:54 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8102011939270659,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:49:54 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.7184805061185269,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:10 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.824016181355432,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:10 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.728371991575017,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:15 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.7556882953852548,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:15 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.847727009181287,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:20 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8610873331053436,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:20 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.7606277033692644,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:25 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.779785859861968,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:25 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8790307084522739,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:30 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.7867340324769247,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:30 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8917864051016565,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:35 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8074095150963906,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:35 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9112187190103321,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:40 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9279189916168826,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:41 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8253236836280549,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:46 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.941990523796622,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:46 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8360727717903477,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:51 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9579610832325453,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:51 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8510261095180895,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:56 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.969105144891429,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:50:56 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8589801547515198,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:01 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9843980314972149,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:01 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8711488768525257,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:06 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 0.995081174814367,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:06 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.8809273982307189,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:11 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0417557333306602,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:11 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9118030365296125,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.835555287841884,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:16 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0557649135007172,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:16 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9187900876862125,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:18 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.709460392756621,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:22 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0736710430683203,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:22 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9298205808829335,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:23 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.713120249702267,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:27 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0829845548499848,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:27 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9365238905749127,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.6645450827367956,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:31 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.2140180208694518,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:32 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0961619166941876,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:32 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9491904024482154,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:36 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.5472127317004816,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:36 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.112903271306939,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:37 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1050078594998878,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:37 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9555191675229602,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:41 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.546662877703789,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:41 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.1037720613427573,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:42 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1196416963128306,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:42 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9656914556231906,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:46 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.514855806884365,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:46 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0642849991312433,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:47 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.128024196756056,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:47 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9697055035531804,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:51 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.524890630154535,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:51 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0576924519438897,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:52 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1439109306086868,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:52 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9793763181574715,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:56 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.5057512326174542,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:57 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0329702865000514,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:58 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1538970873460495,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:51:58 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9851758780909624,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:02 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.5244351206601428,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:02 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.037585758876962,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:03 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.171331837208824,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:03 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 0.9965927550663515,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:07 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.4985476675436296,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:07 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.00745863200982,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:08 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1939597802771031,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:08 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0038394654970202,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:12 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.5983493611214428,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:12 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.1034310799724403,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:13 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0261553159731174,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.21067440811887,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:17 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.571729657616065,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:17 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.081126601129161,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:18 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.217785915051114,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:18 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0312953732204397,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:22 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.5699438705525024,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:22 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.083328763895629,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:23 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.230229477753086,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:23 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.041816152802643,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:27 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.54651126591394,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:27 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.07087168339512,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:28 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.236961420611231,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:28 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.048489694019144,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:33 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.545845100997412,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:33 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0733492663579964,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:34 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.248823358266531,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:34 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0585093718545657,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:38 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.524567193664905,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:38 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.055043885401658,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:39 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2552511487254505,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:39 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.063103225211246,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:43 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.524133902668082,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:43 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0508627010354954,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:44 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.266920316519389,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:44 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0711888995389762,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:48 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.505122595879744,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:48 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 2.0409794730781643,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:49 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.273023884967716,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:52:49 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0773103509568387,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:08 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.365186634578714,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:08 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9315716912582255,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:09 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2733720690339303,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:09 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.077600005341985,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:13 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3588934826714296,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:14 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.9265218380666171,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:14 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2809287448675162,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:15 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0834735175183838,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:16 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 5617.985095256416,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:16 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 7263.782685684264,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:19 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 18.723838951440136,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:19 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 8480.867419616392,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:19 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 16121.534385494118,
+        "severity": 80
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:20 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.3147426985709503,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:20 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8837243568357365,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:21 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 196.32969942196246,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:21 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 108.99297257638383,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:21 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 14.99402945559138,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:21 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2865497521887337,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:21 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0896436348545886,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:25 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 413.569009382964,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:25 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 230.49879807852295,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:25 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.2926656952879667,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:25 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.870078278265722,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:27 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 236.69450339974807,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:27 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 134.13172685381747,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:27 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2914893026071348,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:27 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.0946915202612708,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:30 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 296.5914256553943,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:32 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 103.95340245318393,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:32 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 185.12878842514806,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:32 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 6.165234301855569,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:32 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.2998675438744256,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:32 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1015273124926697,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:37 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3047153825669877,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:37 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1048653041521213,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:39 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Suspicious Traffic",
+        "packet_rate": 167.24409237609078,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:39 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Unknown Anomaly",
+        "packet_rate": 6.268102393646074,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:39 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.291066442423398,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:39 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.8699528245614352,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:42 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3164002105142352,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:43 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.111770439201117,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:45 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.1840467213712134,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:45 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.7771717732556154,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:48 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3213720265883933,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:48 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1136599779775667,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:49 2026",
+        "src_ip": "2620:1ec:bdf::72",
+        "attack": "Possible DDoS Attack",
+        "packet_rate": 8376.60569929653,
+        "severity": 70
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:50 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 2.1871013772213335,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:54 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1169996517325207,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:54 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3226788591042409,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:54 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Slow Attack",
+        "packet_rate": 2.8919676556829668,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:54 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Data Exfiltration",
+        "packet_rate": 66.15457206955442,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:54 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Data Exfiltration",
+        "packet_rate": 117.5423560451762,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:59 2026",
+        "src_ip": "2402:8100:2a27:a978:4950:29e0:2f50:102b",
+        "attack": "Data Exfiltration",
+        "packet_rate": 62.507549051980625,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:53:59 2026",
+        "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+        "attack": "Data Exfiltration",
+        "packet_rate": 110.64907941966553,
+        "severity": 20
+    },
+    {
+        "timestamp": "Thu Mar 12 23:54:00 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1214962521613685,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:54:00 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3269726906371717,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:54:05 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.3362853799096819,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:54:05 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1278312872916307,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:54:10 2026",
+        "src_ip": "172.20.10.2",
+        "attack": "Slow Attack",
+        "packet_rate": 1.347142440764422,
+        "severity": 10
+    },
+    {
+        "timestamp": "Thu Mar 12 23:54:10 2026",
+        "src_ip": "34.139.124.58",
+        "attack": "Slow Attack",
+        "packet_rate": 1.1341926204991286,
+        "severity": 10
+    }
+]

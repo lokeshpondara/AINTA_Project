@@ -1,0 +1,9 @@
+{
+    "timestamp": "Sun Mar 29 16:07:01 2026",
+    "src_ip": "23.56.25.217",
+    "attack": "DDoS",
+    "packet_rate": 4391.021775544388,
+    "severity": 71,
+    "confidence": 0,
+    "country": "Hong Kong"
+}

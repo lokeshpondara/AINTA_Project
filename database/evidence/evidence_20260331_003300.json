@@ -1,0 +1,15 @@
+{
+    "timestamp": "Tue Mar 31 00:33:00 2026",
+    "src_ip": "172.20.10.1",
+    "attack": "Traffic Flood",
+    "packet_rate": 853.2812531787204,
+    "severity": 25,
+    "confidence": 0,
+    "country": "unknown",
+    "epoch": 1774897380.8420916,
+    "threat_score": 17,
+    "priority": "LOW",
+    "mitre_tactic": "Impact",
+    "mitre_technique": "T1498 - Network DoS",
+    "risk_score": 14
+}

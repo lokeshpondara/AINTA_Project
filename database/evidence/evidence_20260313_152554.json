@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 15:25:54 2026",
+    "src_ip": "20.199.39.224",
+    "attack": "Slow Attack",
+    "packet_rate": 1.8275212985785878,
+    "severity": 5,
+    "location": {
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8558,
+        "lon": 2.3494
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 14:54:02 2026",
+    "src_ip": "20.250.119.64",
+    "attack": "Slow Attack",
+    "packet_rate": 0.7793062801255324,
+    "severity": 10,
+    "location": {
+        "country": "Switzerland",
+        "city": "Zurich",
+        "lat": 47.3643,
+        "lon": 8.5437
+    }
+}

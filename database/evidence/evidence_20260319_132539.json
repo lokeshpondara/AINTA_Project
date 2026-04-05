@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:25:39 2026",
+    "src_ip": "2600:1408:ec00:15::17d7:c9",
+    "attack": "Possible DDoS Attack",
+    "packet_rate": 2045.3368010403121,
+    "severity": 35,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Akamai Technologies, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

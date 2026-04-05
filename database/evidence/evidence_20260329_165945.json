@@ -1,0 +1,11 @@
+{
+    "timestamp": "Sun Mar 29 16:59:44 2026",
+    "src_ip": "4.230.171.124",
+    "attack": "Suspicious Activity",
+    "packet_rate": 0.49064106802925767,
+    "severity": 40,
+    "confidence": 0,
+    "country": "South Korea",
+    "threat_score": 28,
+    "priority": "MEDIUM"
+}

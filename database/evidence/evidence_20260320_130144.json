@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 13:01:44 2026",
+    "src_ip": "52.138.229.66",
+    "attack": "Slow Attack",
+    "packet_rate": 1.008396865229962,
+    "severity": 37,
+    "confidence": 7,
+    "country": "Ireland",
+    "isp": "Microsoft Corporation",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

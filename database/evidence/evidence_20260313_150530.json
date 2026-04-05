@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 15:05:30 2026",
+    "src_ip": "2600:1408:ec00:1e::1735:23ee",
+    "attack": "Traffic Burst Attack",
+    "packet_rate": 903.2782233591981,
+    "severity": 50,
+    "location": {
+        "country": "United States",
+        "city": "Ashburn",
+        "lat": 39.0469,
+        "lon": -77.4903
+    }
+}

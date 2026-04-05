@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 12:01:49 2026",
+    "src_ip": "2.18.67.15",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 13.422162758568678,
+    "severity": 10,
+    "location": {
+        "country": "United States",
+        "city": "Chantilly",
+        "lat": 38.8879,
+        "lon": -77.4448
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "timestamp": "Sun Mar 29 17:11:37 2026",
+    "src_ip": "172.20.10.2",
+    "attack": "Suspicious Activity",
+    "packet_rate": 1.1780012798065551,
+    "severity": 40,
+    "confidence": 0,
+    "country": "unknown",
+    "threat_score": 28,
+    "priority": "MEDIUM"
+}

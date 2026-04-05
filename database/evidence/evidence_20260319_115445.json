@@ -1,0 +1,13 @@
+{
+    "timestamp": "Thu Mar 19 11:54:45 2026",
+    "src_ip": "13.114.23.48",
+    "attack": "Slow Attack",
+    "packet_rate": 0.6674739392915942,
+    "severity": 15,
+    "location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "lat": 35.6893,
+        "lon": 139.6899
+    }
+}

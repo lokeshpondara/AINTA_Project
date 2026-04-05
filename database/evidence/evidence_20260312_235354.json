@@ -1,0 +1,7 @@
+{
+    "timestamp": "Thu Mar 12 23:53:54 2026",
+    "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+    "attack": "Data Exfiltration",
+    "packet_rate": 117.5423560451762,
+    "severity": 20
+}

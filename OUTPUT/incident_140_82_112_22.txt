@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-29 17:43:27.295774
+
+Attacker IP : 140.82.112.22
+Attack Type : DDoS
+Severity    : 72
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

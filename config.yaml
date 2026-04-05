@@ -1,0 +1,28 @@
+capture:
+  interfaces: ['Ethernet 3', 'Wi-Fi']
+  bpf_filter: 'ip'
+  timeout: 5
+detection:
+  ddos_threshold: 2000
+  portscan_threshold: 800
+  anomaly_threshold: -0.5
+db:
+  path: 'database/alerts.db'
+response:
+  block_threshold: 'HIGH'
+  smtp_server: 'smtp.gmail.com'
+  smtp_port: 587
+
+  smtp_pass: 'bwitebhaunjvnspp'
+  email_enabled: true
+  slack_enabled: false
+  slack_webhook: ''
+alerts:
+  smtp_server: smtp.gmail.com
+  smtp_port: 587
+  smtp_user: aintaproject@gmail.com
+  smtp_pass: duix nhot wkda rseu
+  email_to: aintaproject@gmail.com
+  slack_webhook: ''  # optional
+
+

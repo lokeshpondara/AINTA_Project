@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 15:08:01 2026",
+    "src_ip": "2402:8100:247f:811b:4413:cf9a:104f:3a9d",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 5.250096023068538,
+    "severity": 5,
+    "location": {
+        "country": "India",
+        "city": null,
+        "lat": 21.9974,
+        "lon": 79.0011
+    }
+}

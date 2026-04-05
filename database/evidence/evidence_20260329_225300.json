@@ -1,0 +1,15 @@
+{
+    "timestamp": "Sun Mar 29 22:53:00 2026",
+    "src_ip": "4.230.171.124",
+    "attack": "Suspicious Activity",
+    "packet_rate": 1.2276117747178439,
+    "severity": 0,
+    "confidence": 0,
+    "country": "South Korea",
+    "epoch": 1774804980.249319,
+    "threat_score": 0,
+    "priority": "LOW",
+    "mitre_tactic": "Reconnaissance",
+    "mitre_technique": "T1046 - Network Service Scanning",
+    "risk_score": 4
+}

@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-20 12:49:22.631083
+
+Attacker IP : 2600:9000:20a5:f800:1f:86b:f1c0:93a1
+Attack Type : Data Exfiltration
+Severity    : 25
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

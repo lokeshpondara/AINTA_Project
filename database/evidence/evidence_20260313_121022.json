@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 12:10:22 2026",
+    "src_ip": "20.189.173.28",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 5.617768893060903,
+    "severity": 10,
+    "location": {
+        "country": "United States",
+        "city": "San Jose",
+        "lat": 37.3388,
+        "lon": -121.8916
+    }
+}

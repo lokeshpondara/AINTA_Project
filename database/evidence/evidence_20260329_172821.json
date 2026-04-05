@@ -1,0 +1,11 @@
+{
+    "timestamp": "Sun Mar 29 17:28:21 2026",
+    "src_ip": "13.69.239.72",
+    "attack": "Suspicious Activity",
+    "packet_rate": 2.045189766861404,
+    "severity": 40,
+    "confidence": 0,
+    "country": "Ireland",
+    "threat_score": 28,
+    "priority": "MEDIUM"
+}

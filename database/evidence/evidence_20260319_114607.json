@@ -1,0 +1,13 @@
+{
+    "timestamp": "Thu Mar 19 11:46:07 2026",
+    "src_ip": "2a03:2880:f368:120:face:b00c:0:167",
+    "attack": "Slow Attack",
+    "packet_rate": 4.7825658236023365,
+    "severity": 25,
+    "location": {
+        "country": "India",
+        "city": "Chennai",
+        "lat": 13.0895,
+        "lon": 80.2739
+    }
+}

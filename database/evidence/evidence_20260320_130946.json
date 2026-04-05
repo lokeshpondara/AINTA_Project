@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 13:09:46 2026",
+    "src_ip": "2620:1ec:46::72",
+    "attack": "Possible DDoS Attack",
+    "packet_rate": 8979.242626070409,
+    "severity": 45,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Microsoft Corporation",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

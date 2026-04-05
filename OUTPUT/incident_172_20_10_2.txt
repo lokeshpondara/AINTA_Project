@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-31 00:33:08.107957
+
+Attacker IP : 172.20.10.2
+Attack Type : Traffic Flood
+Severity    : 50
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

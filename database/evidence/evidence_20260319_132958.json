@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:29:58 2026",
+    "src_ip": "92.223.76.254",
+    "attack": "Data Exfiltration",
+    "packet_rate": 86.21652882206646,
+    "severity": 25,
+    "confidence": 0,
+    "country": "Hong Kong",
+    "isp": "G-Core Labs Customer assignment",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

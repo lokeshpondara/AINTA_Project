@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-19 11:44:40.364092
+
+Attacker IP : 2600:9000:2611:3a00:12:bd7a:5b00:93a1
+Attack Type : Possible DDoS Attack
+Severity    : 65
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

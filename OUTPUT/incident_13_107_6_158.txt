@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-31 11:03:53.639533
+
+Attacker IP : 13.107.6.158
+Attack Type : Traffic Flood
+Severity    : 50
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

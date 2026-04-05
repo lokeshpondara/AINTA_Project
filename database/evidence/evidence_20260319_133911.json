@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:39:11 2026",
+    "src_ip": "20.189.173.13",
+    "attack": "Slow Attack",
+    "packet_rate": 1.5062572492646713,
+    "severity": 42,
+    "confidence": 26,
+    "country": "United States",
+    "isp": "Microsoft Corporation",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

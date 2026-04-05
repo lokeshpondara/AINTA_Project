@@ -1,0 +1,7 @@
+{
+    "timestamp": "Thu Mar 12 23:36:59 2026",
+    "src_ip": "172.20.10.2",
+    "attack": "Slow Attack",
+    "packet_rate": 2.013233148744061,
+    "severity": 0
+}

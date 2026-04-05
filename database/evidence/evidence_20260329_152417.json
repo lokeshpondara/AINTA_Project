@@ -1,0 +1,13 @@
+{
+    "timestamp": "Sun Mar 29 15:24:17 2026",
+    "src_ip": "23.56.26.42",
+    "attack": "Port Scan",
+    "packet_rate": 0,
+    "severity": 70,
+    "threat": "MEDIUM",
+    "country": "Hong Kong",
+    "reason": [
+        "Multiple ports accessed",
+        "AI anomaly detected"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 15:04:18 2026",
+    "src_ip": "2404:6800:4009:820::200a",
+    "attack": "Slow Attack",
+    "packet_rate": 0.16813578134056395,
+    "severity": 10,
+    "location": {
+        "country": "Australia",
+        "city": null,
+        "lat": -33.494,
+        "lon": 143.2104
+    }
+}

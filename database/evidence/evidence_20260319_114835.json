@@ -1,0 +1,13 @@
+{
+    "timestamp": "Thu Mar 19 11:48:35 2026",
+    "src_ip": "2620:1ec:bdf::72",
+    "attack": "Possible DDoS Attack",
+    "packet_rate": 6618.691914972616,
+    "severity": 65,
+    "location": {
+        "country": "United States",
+        "city": null,
+        "lat": 37.751,
+        "lon": -97.822
+    }
+}

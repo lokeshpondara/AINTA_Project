@@ -1,0 +1,9 @@
+{
+    "timestamp": "Sun Mar 29 15:55:52 2026",
+    "src_ip": "172.188.155.25",
+    "attack": "Traffic Flood",
+    "packet_rate": 1000.0,
+    "severity": 40,
+    "confidence": 0,
+    "country": "Singapore"
+}

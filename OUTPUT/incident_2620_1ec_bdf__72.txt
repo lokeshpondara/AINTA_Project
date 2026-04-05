@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-20 13:05:39.448922
+
+Attacker IP : 2620:1ec:bdf::72
+Attack Type : Slow Attack
+Severity    : 25
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

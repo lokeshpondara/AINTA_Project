@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 15:56:45 2026",
+    "src_ip": "23.48.10.34",
+    "attack": "Slow Attack",
+    "packet_rate": 2.437034506104004,
+    "severity": 5,
+    "location": {
+        "country": "United States",
+        "city": "Ashburn",
+        "lat": 39.0469,
+        "lon": -77.4903
+    }
+}

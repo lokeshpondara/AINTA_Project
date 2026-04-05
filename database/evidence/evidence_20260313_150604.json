@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 15:06:04 2026",
+    "src_ip": "2600:141b:1c00:20::1730:e0a5",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 17.69960179714684,
+    "severity": 5,
+    "location": {
+        "country": "United States",
+        "city": "Secaucus",
+        "lat": 40.7876,
+        "lon": -74.06
+    }
+}

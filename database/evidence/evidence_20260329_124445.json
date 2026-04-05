@@ -1,0 +1,12 @@
+{
+    "timestamp": "Sun Mar 29 12:44:45 2026",
+    "src_ip": "52.13.103.2",
+    "attack": "DDoS",
+    "packet_rate": 4453.2793204835025,
+    "severity": 85,
+    "confidence": 1,
+    "country": "United States",
+    "reason": [
+        "High traffic rate"
+    ]
+}

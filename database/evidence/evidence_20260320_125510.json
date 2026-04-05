@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 12:55:10 2026",
+    "src_ip": "199.232.90.172",
+    "attack": "Slow Attack",
+    "packet_rate": 0.45609725386454325,
+    "severity": 35,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Fastly, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

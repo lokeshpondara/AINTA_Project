@@ -1,0 +1,15 @@
+{
+    "timestamp": "Sun Mar 29 19:02:28 2026",
+    "src_ip": "172.20.10.1",
+    "attack": "DDoS",
+    "packet_rate": 3769.0316010184215,
+    "severity": 45,
+    "confidence": 0,
+    "country": "unknown",
+    "epoch": 1774791148.1532187,
+    "threat_score": 31,
+    "priority": "LOW",
+    "mitre_tactic": "Impact",
+    "mitre_technique": "T1499 - Endpoint Denial of Service",
+    "risk_score": 24
+}

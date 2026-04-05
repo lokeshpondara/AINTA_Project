@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 12:55:34 2026",
+    "src_ip": "172.20.10.2",
+    "attack": "Data Exfiltration",
+    "packet_rate": 41.07027478289568,
+    "severity": 35,
+    "confidence": 0,
+    "country": "unknown",
+    "isp": "Internal",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

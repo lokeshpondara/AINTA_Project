@@ -1,0 +1,13 @@
+{
+    "timestamp": "Sat Mar 28 18:40:18 2026",
+    "src_ip": "104.18.26.48",
+    "attack": "Port Scan",
+    "packet_rate": 0,
+    "severity": 70,
+    "threat": "MEDIUM",
+    "country": "unknown",
+    "reason": [
+        "Multiple ports accessed",
+        "AI anomaly detected"
+    ]
+}

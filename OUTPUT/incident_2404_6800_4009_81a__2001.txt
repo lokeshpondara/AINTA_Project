@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-13 15:55:53.253464
+
+Attacker IP : 2404:6800:4009:81a::2001
+Attack Type : Possible DDoS Attack
+Severity    : 65
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:06:51 2026",
+    "src_ip": "35.237.69.59",
+    "attack": "Slow Attack",
+    "packet_rate": 1.7532918958174237,
+    "severity": 15,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Google LLC",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

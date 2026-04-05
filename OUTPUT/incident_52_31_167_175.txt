@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-28 18:40:20.616011
+
+Attacker IP : 52.31.167.175
+Attack Type : Port Scan
+Severity    : 70
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

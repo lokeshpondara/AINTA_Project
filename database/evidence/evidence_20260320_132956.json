@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 13:29:56 2026",
+    "src_ip": "35.237.69.59",
+    "attack": "DDoS Attack",
+    "packet_rate": 11522.813186813188,
+    "severity": 95,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Google LLC",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

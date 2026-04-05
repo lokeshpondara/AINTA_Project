@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 12:56:48 2026",
+    "src_ip": "2a03:90c0:f1:2801::9999",
+    "attack": "Slow Attack",
+    "packet_rate": 4.919236879509478,
+    "severity": 15,
+    "confidence": 0,
+    "country": "Hong Kong",
+    "isp": "G-Core Labs S.A.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

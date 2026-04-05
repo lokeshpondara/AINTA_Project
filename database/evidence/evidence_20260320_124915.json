@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 12:49:15 2026",
+    "src_ip": "2600:9000:20a5:f800:1f:86b:f1c0:93a1",
+    "attack": "Data Exfiltration",
+    "packet_rate": 38.25394411240603,
+    "severity": 25,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Amazon.com, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 14:44:05 2026",
+    "src_ip": "13.107.137.11",
+    "attack": "Traffic Burst Attack",
+    "packet_rate": 525.5827004884878,
+    "severity": 55,
+    "location": {
+        "country": "United States",
+        "city": "Redmond",
+        "lat": 47.6722,
+        "lon": -122.1257
+    }
+}

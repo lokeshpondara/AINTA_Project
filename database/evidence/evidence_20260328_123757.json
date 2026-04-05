@@ -1,0 +1,15 @@
+{
+    "timestamp": "Sat Mar 28 12:37:57 2026",
+    "src_ip": "23.56.26.42",
+    "attack": "Port Scan",
+    "packet_rate": 10.0,
+    "severity": 15,
+    "confidence": 0,
+    "country": "Hong Kong",
+    "isp": "Akamai Technologies, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "reason": [
+        "Multiple ports accessed"
+    ]
+}

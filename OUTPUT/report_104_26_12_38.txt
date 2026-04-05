@@ -1,0 +1,14 @@
+
+===== INCIDENT REPORT =====
+Time: 2026-03-28 18:37:43.622155
+Source IP: 104.26.12.38
+Attack Type: Port Scan
+Severity: 40
+===========================
+
+===== INCIDENT REPORT =====
+Time: 2026-03-28 18:39:32.183320
+Source IP: 104.26.12.38
+Attack Type: Port Scan
+Severity: 40
+===========================

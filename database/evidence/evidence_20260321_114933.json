@@ -1,0 +1,12 @@
+{
+    "timestamp": "Sat Mar 21 11:49:33 2026",
+    "src_ip": "18.67.153.17",
+    "attack": "Suspicious Traffic",
+    "packet_rate": 454.0,
+    "severity": 25,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Amazon.com, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

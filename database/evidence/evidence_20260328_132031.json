@@ -1,0 +1,15 @@
+{
+    "timestamp": "Sat Mar 28 13:20:31 2026",
+    "src_ip": "52.182.143.209",
+    "attack": "Port Scan",
+    "packet_rate": 0.9338177453193311,
+    "severity": 39,
+    "confidence": 14,
+    "country": "United States",
+    "isp": "Microsoft Corporation",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "reason": [
+        "Multiple ports accessed"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "timestamp": "Thu Mar 19 11:43:57 2026",
+    "src_ip": "2a03:2880:f312:120:face:b00c:0:167",
+    "attack": "Suspicious Traffic",
+    "packet_rate": 149.5180976799287,
+    "severity": 25,
+    "location": {
+        "country": "India",
+        "city": "Mumbai",
+        "lat": 19.0748,
+        "lon": 72.8856
+    }
+}

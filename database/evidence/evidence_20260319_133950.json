@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:39:50 2026",
+    "src_ip": "4.225.11.192",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 11.09455176575585,
+    "severity": 20,
+    "confidence": 0,
+    "country": "Sweden",
+    "isp": "Microsoft Corporation",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

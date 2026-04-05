@@ -1,0 +1,14 @@
+{
+    "timestamp": "Sun Mar 29 15:36:40 2026",
+    "src_ip": "4.230.171.124",
+    "attack": "DDoS",
+    "packet_rate": 8102.325820991629,
+    "severity": 95,
+    "confidence": 0,
+    "country": "South Korea",
+    "reason": [
+        "High traffic rate",
+        "AI anomaly detected",
+        "Severe anomaly spike"
+    ]
+}

@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-13 16:21:46.122643
+
+Attacker IP : 20.189.173.18
+Attack Type : Slow Attack
+Severity    : 20
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

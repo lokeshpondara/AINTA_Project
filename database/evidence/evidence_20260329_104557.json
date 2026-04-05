@@ -1,0 +1,12 @@
+{
+    "timestamp": "Sun Mar 29 10:45:57 2026",
+    "src_ip": "18.244.87.36",
+    "attack": 80,
+    "packet_rate": 659.0,
+    "severity": 30,
+    "confidence": 0,
+    "country": "United States",
+    "reason": [
+        "High packet rate"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 15:28:27 2026",
+    "src_ip": "20.250.119.64",
+    "attack": "Possible DDoS Attack",
+    "packet_rate": 5532.16619037151,
+    "severity": 80,
+    "location": {
+        "country": "Switzerland",
+        "city": "Zurich",
+        "lat": 47.3643,
+        "lon": 8.5437
+    }
+}

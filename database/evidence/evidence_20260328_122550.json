@@ -1,0 +1,15 @@
+{
+    "timestamp": "Sat Mar 28 12:25:50 2026",
+    "src_ip": "172.20.10.2",
+    "attack": "DDoS",
+    "packet_rate": 603.0,
+    "severity": 25,
+    "confidence": 0,
+    "country": "unknown",
+    "isp": "Internal",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "reason": [
+        "High traffic detected"
+    ]
+}

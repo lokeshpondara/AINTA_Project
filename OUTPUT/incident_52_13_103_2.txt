@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-29 19:06:48.754875
+
+Attacker IP : 52.13.103.2
+Attack Type : DDoS
+Severity    : 60
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

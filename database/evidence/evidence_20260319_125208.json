@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 12:52:08 2026",
+    "src_ip": "2606:4700::6812:1b30",
+    "attack": "Slow Attack",
+    "packet_rate": 0.37420296087620114,
+    "severity": 15,
+    "confidence": 0,
+    "country": "unknown",
+    "isp": "Cloudflare, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

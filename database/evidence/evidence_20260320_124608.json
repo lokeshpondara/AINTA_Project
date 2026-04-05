@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 12:46:08 2026",
+    "src_ip": "2603:1036:302:4841::2",
+    "attack": "Port Scan",
+    "packet_rate": 391.8120069750062,
+    "severity": 25,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Microsoft Corporation",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

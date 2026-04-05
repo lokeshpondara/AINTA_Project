@@ -1,0 +1,13 @@
+{
+    "timestamp": "Thu Mar 19 11:48:41 2026",
+    "src_ip": "99.84.91.5",
+    "attack": "Data Exfiltration",
+    "packet_rate": 159.8861779001106,
+    "severity": 15,
+    "location": {
+        "country": "United States",
+        "city": null,
+        "lat": 37.751,
+        "lon": -97.822
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:25:09 2026",
+    "src_ip": "2600:1408:a:201::212:4312",
+    "attack": "Slow Attack",
+    "packet_rate": 2.7313383944773166,
+    "severity": 25,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Akamai Technologies, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

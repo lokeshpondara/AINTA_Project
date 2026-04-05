@@ -1,0 +1,12 @@
+{
+    "timestamp": "Sun Mar 29 14:56:05 2026",
+    "src_ip": "199.232.46.132",
+    "attack": "DDoS",
+    "packet_rate": 6467.700848111025,
+    "severity": 80,
+    "confidence": 0,
+    "country": "Singapore",
+    "reason": [
+        "High traffic rate"
+    ]
+}

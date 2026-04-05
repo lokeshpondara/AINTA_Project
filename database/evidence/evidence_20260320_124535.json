@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 12:45:35 2026",
+    "src_ip": "2600:9000:273b:9200:12:bd7a:5b00:93a1",
+    "attack": "Traffic Burst Attack",
+    "packet_rate": 678.7277204941618,
+    "severity": 25,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Amazon.com, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

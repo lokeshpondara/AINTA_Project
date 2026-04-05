@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:28:17 2026",
+    "src_ip": "23.209.72.141",
+    "attack": "Data Exfiltration",
+    "packet_rate": 63.75713191498278,
+    "severity": 25,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Akamai International, BV",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

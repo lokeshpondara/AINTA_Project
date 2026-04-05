@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 15:31:11 2026",
+    "src_ip": "13.89.179.13",
+    "attack": "Slow Attack",
+    "packet_rate": 1.5082976353285895,
+    "severity": 20,
+    "location": {
+        "country": "United States",
+        "city": "Des Moines",
+        "lat": 41.6015,
+        "lon": -93.6127
+    }
+}

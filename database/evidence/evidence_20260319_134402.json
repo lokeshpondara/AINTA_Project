@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:44:02 2026",
+    "src_ip": "23.210.73.146",
+    "attack": "Suspicious Traffic",
+    "packet_rate": 23.97693580331148,
+    "severity": 20,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Akamai Technologies, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 12:47:34 2026",
+    "src_ip": "2404:6800:4009:816::200e",
+    "attack": "Traffic Burst Attack",
+    "packet_rate": 747.7186671471108,
+    "severity": 25,
+    "confidence": 0,
+    "country": "Australia",
+    "isp": "Asia Pacific Network Information Centre",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

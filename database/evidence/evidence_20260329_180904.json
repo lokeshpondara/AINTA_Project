@@ -1,0 +1,11 @@
+{
+    "timestamp": "Sun Mar 29 18:09:04 2026",
+    "src_ip": "54.202.200.3",
+    "attack": "Traffic Flood",
+    "packet_rate": 826.2467660384792,
+    "severity": 60,
+    "confidence": 0,
+    "country": "United States",
+    "threat_score": 42,
+    "priority": "MEDIUM"
+}

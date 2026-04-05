@@ -1,0 +1,35 @@
+
+===== INCIDENT REPORT =====
+Time: 2026-03-29 11:40:50.619170
+Source IP: 20.60.237.161
+Attack Type: DDoS
+Severity: 40
+===========================
+
+===== INCIDENT REPORT =====
+Time: 2026-03-29 11:41:01.690647
+Source IP: 20.60.237.161
+Attack Type: Anomalous Traffic
+Severity: 30
+===========================
+
+===== INCIDENT REPORT =====
+Time: 2026-03-29 11:41:14.356727
+Source IP: 20.60.237.161
+Attack Type: Anomalous Traffic
+Severity: 30
+===========================
+
+===== INCIDENT REPORT =====
+Time: 2026-03-29 11:41:26.930598
+Source IP: 20.60.237.161
+Attack Type: Anomalous Traffic
+Severity: 30
+===========================
+
+===== INCIDENT REPORT =====
+Time: 2026-03-29 11:43:07.543306
+Source IP: 20.60.237.161
+Attack Type: Anomalous Traffic
+Severity: 30
+===========================

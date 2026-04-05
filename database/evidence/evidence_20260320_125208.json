@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 12:52:08 2026",
+    "src_ip": "2404:6800:4009:808::200e",
+    "attack": "Possible DDoS Attack",
+    "packet_rate": 3232.011154939914,
+    "severity": 45,
+    "confidence": 0,
+    "country": "Australia",
+    "isp": "Asia Pacific Network Information Centre",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

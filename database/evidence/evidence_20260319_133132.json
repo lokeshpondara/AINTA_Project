@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:31:32 2026",
+    "src_ip": "2603:1063:2001:192f::365:ff1",
+    "attack": "Possible DDoS Attack",
+    "packet_rate": 3593.950847127556,
+    "severity": 45,
+    "confidence": 0,
+    "country": "India",
+    "isp": "Microsoft Corporation",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

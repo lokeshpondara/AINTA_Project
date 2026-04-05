@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:09:58 2026",
+    "src_ip": "2a06:98c1:310b::ac40:9bd1",
+    "attack": "Suspicious Traffic",
+    "packet_rate": 63.40541639826871,
+    "severity": 25,
+    "confidence": 0,
+    "country": "unknown",
+    "isp": "Cloudflare, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

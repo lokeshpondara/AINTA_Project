@@ -1,0 +1,13 @@
+{
+    "timestamp": "Sun Mar 29 11:49:32 2026",
+    "src_ip": "20.250.119.64",
+    "attack": "Port Scan",
+    "packet_rate": 6.002844226980807,
+    "severity": 80,
+    "confidence": 0,
+    "country": "Switzerland",
+    "reason": [
+        "Multiple ports accessed",
+        "AI anomaly detected"
+    ]
+}

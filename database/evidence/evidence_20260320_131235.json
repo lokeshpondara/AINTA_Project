@@ -1,0 +1,12 @@
+{
+    "timestamp": "Fri Mar 20 13:12:35 2026",
+    "src_ip": "172.20.10.2",
+    "attack": "Slow Attack",
+    "packet_rate": 3.0766030448751813,
+    "severity": 35,
+    "confidence": 0,
+    "country": "unknown",
+    "isp": "Internal",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

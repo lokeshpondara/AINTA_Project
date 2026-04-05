@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 15:07:28 2026",
+    "src_ip": "2600:141b:1c00:37::17d2:5c99",
+    "attack": "Suspicious Traffic",
+    "packet_rate": 81.19690292000496,
+    "severity": 25,
+    "location": {
+        "country": "United States",
+        "city": "Secaucus",
+        "lat": 40.7876,
+        "lon": -74.06
+    }
+}

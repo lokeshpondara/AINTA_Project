@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 15:14:45 2026",
+    "src_ip": "4.188.114.61",
+    "attack": "Possible DDoS Attack",
+    "packet_rate": 3357.5187570498124,
+    "severity": 65,
+    "location": {
+        "country": "India",
+        "city": "Pune",
+        "lat": 18.5211,
+        "lon": 73.8502
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "timestamp": "Sun Mar 29 11:34:29 2026",
+    "src_ip": "52.168.117.170",
+    "attack": "Normal",
+    "packet_rate": 0.7379825402286391,
+    "severity": 30,
+    "confidence": 19,
+    "country": "United States",
+    "reason": [
+        "AI anomaly detected"
+    ]
+}

@@ -1,0 +1,16 @@
+
+========== INCIDENT REPORT ==========
+Time: 2026-03-29 17:45:57.673292
+
+Attacker IP : 20.250.119.64
+Attack Type : DDoS
+Severity    : 72
+
+Actions Taken
+--------------
+• Alert generated
+• Threat intelligence checked
+• Evidence stored
+• Firewall block triggered
+
+=====================================

@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 13:34:01 2026",
+    "src_ip": "20.189.173.8",
+    "attack": "Slow Attack",
+    "packet_rate": 0.8811372168125589,
+    "severity": 10,
+    "location": {
+        "country": "United States",
+        "city": "San Jose",
+        "lat": 37.3388,
+        "lon": -121.8916
+    }
+}

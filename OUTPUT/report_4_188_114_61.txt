@@ -1,0 +1,28 @@
+
+===== INCIDENT REPORT =====
+Time: 2026-03-29 10:44:47.688997
+Source IP: 4.188.114.61
+Attack Type: Normal
+Severity: 30
+===========================
+
+===== INCIDENT REPORT =====
+Time: 2026-03-29 18:53:49.393240
+Source IP: 4.188.114.61
+Attack Type: Normal
+Severity: 30
+===========================
+
+===== INCIDENT REPORT =====
+Time: 2026-03-29 18:54:19.891987
+Source IP: 4.188.114.61
+Attack Type: Normal
+Severity: 30
+===========================
+
+===== INCIDENT REPORT =====
+Time: 2026-03-29 22:54:01.054097
+Source IP: 4.188.114.61
+Attack Type: DDoS
+Severity: 45
+===========================

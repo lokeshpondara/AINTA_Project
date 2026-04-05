@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 13:36:37 2026",
+    "src_ip": "2600:141b:1c00:37::17d2:5c84",
+    "attack": "Possible DDoS Attack",
+    "packet_rate": 12311.370205468158,
+    "severity": 80,
+    "location": {
+        "country": "United States",
+        "city": "Secaucus",
+        "lat": 40.7876,
+        "lon": -74.06
+    }
+}

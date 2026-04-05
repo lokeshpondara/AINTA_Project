@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:16:55 2026",
+    "src_ip": "18.172.64.118",
+    "attack": "Slow Attack",
+    "packet_rate": 0.3537420727481734,
+    "severity": 35,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Amazon.com, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

@@ -1,0 +1,15 @@
+{
+    "timestamp": "Sun Mar 29 18:55:27 2026",
+    "src_ip": "172.188.155.25",
+    "attack": "Traffic Flood",
+    "packet_rate": 1000.0,
+    "severity": 30,
+    "confidence": 0,
+    "country": "Singapore",
+    "epoch": 1774790727.5524383,
+    "threat_score": 21,
+    "priority": "LOW",
+    "mitre_tactic": "Impact",
+    "mitre_technique": "T1498 - Network DoS",
+    "risk_score": 17
+}

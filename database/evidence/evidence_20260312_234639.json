@@ -1,0 +1,7 @@
+{
+    "timestamp": "Thu Mar 12 23:46:39 2026",
+    "src_ip": "13.107.137.11",
+    "attack": "Possible DDoS Attack",
+    "packet_rate": 9949.780247522598,
+    "severity": 70
+}

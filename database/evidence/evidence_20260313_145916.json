@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 14:59:16 2026",
+    "src_ip": "20.50.201.204",
+    "attack": "Slow Attack",
+    "packet_rate": 0.9809002945487741,
+    "severity": 10,
+    "location": {
+        "country": "The Netherlands",
+        "city": "Amsterdam",
+        "lat": 52.3759,
+        "lon": 4.8975
+    }
+}

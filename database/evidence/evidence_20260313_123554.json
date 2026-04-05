@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 12:35:54 2026",
+    "src_ip": "34.139.124.58",
+    "attack": "Slow Attack",
+    "packet_rate": 1.6249189707869358,
+    "severity": 10,
+    "location": {
+        "country": "United States",
+        "city": "North Charleston",
+        "lat": 32.8608,
+        "lon": -79.9746
+    }
+}

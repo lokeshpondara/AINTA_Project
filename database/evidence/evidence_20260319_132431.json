@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:24:31 2026",
+    "src_ip": "2600:141b:1c00:20::1730:e0a8",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 8.458842140578271,
+    "severity": 20,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "Akamai Technologies, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

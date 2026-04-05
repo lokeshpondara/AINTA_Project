@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 16:46:10 2026",
+    "src_ip": "57.150.129.65",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 9.13594407859077,
+    "severity": 5,
+    "location": {
+        "country": "United States",
+        "city": "Des Moines",
+        "lat": 41.6015,
+        "lon": -93.6127
+    }
+}

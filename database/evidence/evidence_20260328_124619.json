@@ -1,0 +1,15 @@
+{
+    "timestamp": "Sat Mar 28 12:46:19 2026",
+    "src_ip": "140.82.112.22",
+    "attack": "Port Scan",
+    "packet_rate": 0.3532087797500345,
+    "severity": 30,
+    "confidence": 0,
+    "country": "United States",
+    "isp": "GitHub, Inc.",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "reason": [
+        "Multiple ports accessed"
+    ]
+}

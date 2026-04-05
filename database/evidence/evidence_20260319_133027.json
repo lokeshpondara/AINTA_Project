@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:30:27 2026",
+    "src_ip": "2a03:90c0:f1:2801::9999",
+    "attack": "Slow Attack",
+    "packet_rate": 3.8256119705851535,
+    "severity": 35,
+    "confidence": 0,
+    "country": "Hong Kong",
+    "isp": "Unknown",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

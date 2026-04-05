@@ -1,0 +1,12 @@
+{
+    "timestamp": "Sat Mar 28 18:29:17 2026",
+    "src_ip": "20.250.119.64",
+    "attack": "Port Scan",
+    "packet_rate": 0,
+    "severity": 40,
+    "threat": "MEDIUM",
+    "country": "Switzerland",
+    "reason": [
+        "Multiple ports accessed"
+    ]
+}

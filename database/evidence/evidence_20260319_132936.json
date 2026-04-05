@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:29:36 2026",
+    "src_ip": "92.223.76.254",
+    "attack": "Suspicious Traffic",
+    "packet_rate": 128.52479913710158,
+    "severity": 20,
+    "confidence": 0,
+    "country": "Hong Kong",
+    "isp": "G-Core Labs Customer assignment",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

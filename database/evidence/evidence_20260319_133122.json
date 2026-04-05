@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:31:22 2026",
+    "src_ip": "2a03:90c0:321:2803::252",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 5.626322719687412,
+    "severity": 35,
+    "confidence": 0,
+    "country": "Singapore",
+    "isp": "G-Core Labs S.A.",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

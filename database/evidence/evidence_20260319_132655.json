@@ -1,0 +1,12 @@
+{
+    "timestamp": "Thu Mar 19 13:26:55 2026",
+    "src_ip": "2402:8100:248f:509d:2d0e:168f:9c65:538e",
+    "attack": "Slow Attack",
+    "packet_rate": 2.7048845718052603,
+    "severity": 35,
+    "confidence": 0,
+    "country": "India",
+    "isp": "Vodafone Idea Ltd",
+    "latitude": 0.0,
+    "longitude": 0.0
+}

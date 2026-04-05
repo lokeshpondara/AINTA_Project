@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 16:44:13 2026",
+    "src_ip": "2603:1063:9:11e::365:7ea3",
+    "attack": "Unknown Anomaly",
+    "packet_rate": 15.789404238132397,
+    "severity": 25,
+    "location": {
+        "country": "United States",
+        "city": "Boydton",
+        "lat": 36.6694,
+        "lon": -78.3877
+    }
+}

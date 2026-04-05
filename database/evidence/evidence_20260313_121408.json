@@ -1,0 +1,13 @@
+{
+    "timestamp": "Fri Mar 13 12:14:08 2026",
+    "src_ip": "4.225.11.192",
+    "attack": "Slow Attack",
+    "packet_rate": 4.081581810489463,
+    "severity": 10,
+    "location": {
+        "country": "Sweden",
+        "city": null,
+        "lat": 59.3247,
+        "lon": 18.056
+    }
+}
