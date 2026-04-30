@@ -27,6 +27,6 @@ Breakdown of approved plan. Mark [x] as completed.
 
 ## Followup
 - [x] pip install pywin32 requests pyyaml
-- [ ] Test: run_system.py + attacks/ddos_simulator.py
+- [x] Test: run_system.py + attacks/ddos_simulator.py (successful: multi-capture active, DDoS detections sev=65 MONITOR, dashboard at localhost:8501, alerts logged)
 - [x] Update original TODO.md with [x]
 - [ ] attempt_completion

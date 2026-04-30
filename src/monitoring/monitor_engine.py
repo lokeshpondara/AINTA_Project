@@ -115,8 +115,8 @@ def start_monitoring():
                     continue
 
 # reduce noise
-                print(f"DEBUG: {src_ip} pred={pred} score={score:.2f} rate={packet_rate}")
-                if pred == 1 and packet_rate < 20:
+                # DEBUG disabled for clean terminal
+                if pred == 1 and packet_rate < 10:  # lowered for more detections
                     continue
 
                 # anti-spam
@@ -220,18 +220,17 @@ def start_monitoring():
                     export_siem_json(since_hours=1)
 
                 # ---------------- RESPONSE ----------------
+                print("\\n" + "="*80)
+                print(f"🚨 THREAT: {src_ip} | {attack} | Sev={severity} | Risk={alert.get('risk_score',0)} | Events={incident.get('events',1)} | Action={action}")
+                print("="*80)
+
                 if action == "BLOCK":
-                    print(f"🚫 BLOCK {src_ip}")
+                    print(f"🚫 BLOCKING {src_ip}")
                     block_ip(src_ip)
                     add_to_blacklist(src_ip)
 
                 elif action == "MONITOR":
-                    print(f"👁 MONITOR {src_ip}")
-
-                print(
-                    f"🚨 {src_ip} | {attack} | sev={severity} | "
-                    f"events={incident.get('events')} | action={action}"
-                )
+                    print(f"👁 MONITORING {src_ip}")
 
         except Exception as e:
             logging.error(str(e))

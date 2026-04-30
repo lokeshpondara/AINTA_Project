@@ -1,7 +1,0 @@
-
-===== INCIDENT REPORT =====
-Time: 2026-03-29 19:13:45.557210
-Source IP: 20.190.144.161
-Attack Type: DDoS
-Severity: 60
-===========================

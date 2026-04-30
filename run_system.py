@@ -78,10 +78,28 @@ def main():
     ids_thread.daemon = True
     ids_thread.start()
 
+    def siem_export_loop():
+        import time
+        from src.storage.siem_exporter import export_siem_json
+        while True:
+            time.sleep(3600)
+            export_siem_json()
+
+    siem_thread = threading.Thread(target=siem_export_loop, daemon=True)
+    siem_thread.start()
+
     time.sleep(3)
 
     start_dashboard()
 
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--service", action="store_true", help="Run as service mode")
+    args = parser.parse_args()
+    
+    if args.service:
+        main()  # No dashboard for service
+    else:
+        main()

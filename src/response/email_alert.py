@@ -40,9 +40,8 @@ Action: BLOCK if high
         msg['From'] = response_config.get('smtp_user', 'ainta@local')
         msg['To'] = email_to
         try:
-            if not response_config.get('smtp_user') or response_config.get('smtp_user') == 'your.email@gmail.com':
-                print("📝 Email disabled - configure config.yaml smtp_user/pass")
-                return
+            print(f"[EMAIL] Config user: {response_config.get('smtp_user', 'NOT SET')}")
+            print(f"[EMAIL] Server: {host}:{response_config.get('smtp_port', 587)}")
             host = response_config.get('smtp_server', 'localhost')
             port = response_config.get('smtp_port', 25)
             server = smtplib.SMTP(host, port)
@@ -52,7 +51,9 @@ Action: BLOCK if high
             server.quit()
             print(f"📧 Email sent to {email_to}")
         except Exception as e:
-            print(f"[INFO] Email skipped (expected if not configured): {e}")
+            import traceback
+            print(f"[ERROR] Email FAILED: {e}")
+            print(traceback.format_exc())
     
     # Slack
     slack_webhook = response_config.get('slack_webhook', '')

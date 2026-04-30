@@ -181,9 +181,23 @@ geo = data.dropna(subset=["latitude","longitude"])
 geo = geo[(geo["latitude"]!=0)&(geo["longitude"]!=0)]
 
 if not geo.empty:
-
-    geo["target_lat"] = 20.5937   # India
-    geo["target_lon"] = 78.9629
+    # Auto location from IP API
+    import requests
+    try:
+        resp = requests.get('http://ip-api.com/json/?fields=lat,lon,status')
+        loc = resp.json()
+        if loc['status'] == 'success':
+            target_lat = loc['lat']
+            target_lon = loc['lon']
+        else:
+            target_lat = 19.0760
+            target_lon = 72.8777
+    except Exception:
+        print("Location API unavailable")
+        target_lat = 19.0760
+        target_lon = 72.8777
+    geo["target_lat"] = target_lat
+    geo["target_lon"] = target_lon
 
     arc = pdk.Layer(
         "ArcLayer",

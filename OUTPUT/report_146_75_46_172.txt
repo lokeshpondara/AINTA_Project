@@ -1,7 +1,0 @@
-
-===== INCIDENT REPORT =====
-Time: 2026-03-29 14:28:27.754646
-Source IP: 146.75.46.172
-Attack Type: DDoS
-Severity: 78
-===========================

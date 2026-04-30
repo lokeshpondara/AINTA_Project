@@ -1,7 +1,0 @@
-
-===== INCIDENT REPORT =====
-Time: 2026-03-29 14:56:30.833337
-Source IP: 20.50.80.209
-Attack Type: Normal
-Severity: 30
-===========================

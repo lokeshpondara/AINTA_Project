@@ -25,30 +25,33 @@ def init_db():
         country TEXT,
         isp TEXT,
         latitude REAL,
-        longitude REAL
+        longitude REAL,
+        risk_score REAL DEFAULT 0,
+        priority TEXT DEFAULT 'LOW',
+        mitre_tactic TEXT DEFAULT 'unknown',
+        mitre_technique TEXT DEFAULT 'unknown'
     )
     """)
+    cursor.execute("PRAGMA table_info(alerts)")
+    print("DB schema updated")
 
     conn.commit()
     conn.close()
 
 
 def insert_alert(timestamp, src_ip, attack_type, packet_rate, severity,
-                 confidence, country, isp, latitude, longitude):
+                 confidence=0, country='unknown', isp='unknown', latitude=0.0, longitude=0.0, risk_score=0, priority='LOW', mitre_tactic='unknown', mitre_technique='unknown'):
 
     conn = get_connection()
     cursor = conn.cursor()
 
     cursor.execute("""
-    INSERT INTO alerts (
+    INSERT OR IGNORE INTO alerts (
         timestamp, src_ip, attack_type, packet_rate,
         severity, confidence, country, isp, latitude, longitude
     )
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    """, (
-        timestamp, src_ip, attack_type, packet_rate,
-        severity, confidence, country, isp, latitude, longitude
-    ))
+    """, (timestamp, src_ip, attack_type, packet_rate, severity, confidence, country, isp, latitude, longitude))
 
     conn.commit()
     conn.close()

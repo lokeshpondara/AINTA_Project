@@ -1,0 +1,11 @@
+config.yaml
+database/*.db
+models/*.pkl
+models/*.pt
+OUTPUT/*
+system.log
+*.log
+__pycache__/
+*.pyc
+.env
+

@@ -1,7 +1,0 @@
-
-===== INCIDENT REPORT =====
-Time: 2026-03-31 10:12:52.565170
-Source IP: 20.9.155.145
-Attack Type: Traffic Flood
-Severity: 35
-===========================

@@ -1,7 +1,0 @@
-
-===== INCIDENT REPORT =====
-Time: 2026-03-29 12:30:26.302540
-Source IP: 40.74.79.222
-Attack Type: Normal
-Severity: 30
-===========================

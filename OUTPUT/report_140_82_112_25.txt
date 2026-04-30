@@ -1,7 +1,0 @@
-
-===== INCIDENT REPORT =====
-Time: 2026-03-31 00:33:00.840157
-Source IP: 140.82.112.25
-Attack Type: Traffic Flood
-Severity: 30
-===========================

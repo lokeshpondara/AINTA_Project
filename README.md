@@ -68,7 +68,17 @@ AINTA_Project/
    python run_system.py
    ```
 
-3. **Simulate attacks for testing:**
+3. **Run as Windows Service (Production):**
+   ```bash
+   # PowerShell: .\install_service.bat
+   # CMD: install_service.bat
+   
+   # Manual NSSM (download nssm.exe from https://nssm.cc/download):
+   # nssm install AINTA_SOC python run_system.py --service
+   # nssm start AINTA_SOC
+   ```
+
+4. **Simulate attacks for testing:**
    ```bash
    cd attacks
    python ddos_simulator.py
@@ -76,7 +86,8 @@ AINTA_Project/
    python slowloris_simulator.py
    ```
 
-4. **View dashboard** (opens automatically or via `streamlit run dashboard.py`)
+5. **View dashboard** (opens automatically or via `streamlit run dashboard.py`)
+
 
 ## Detected Threats
 
@@ -101,6 +112,12 @@ AINTA detects and classifies:
 - `evidence/*.pcap`: Packet captures
 - `database/alerts.db`: Persistent alert storage
 - `system.log`: Runtime logs
+
+## 📚 Thesis Documentation
+Full college project report: [docs/thesis.md](docs/thesis.md)
+
+Generate PDF: `pandoc docs/thesis.md -o thesis.pdf --toc`
+
 
 ## Evidence Validation
 

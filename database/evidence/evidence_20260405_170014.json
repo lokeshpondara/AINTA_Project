@@ -1,0 +1,15 @@
+{
+    "timestamp": "Sun Apr  5 17:00:14 2026",
+    "src_ip": "18.66.57.71",
+    "attack": "Suspicious Activity",
+    "packet_rate": 20.549694686505376,
+    "severity": 4,
+    "confidence": 0,
+    "country": "United States",
+    "epoch": 1775388614.3718848,
+    "threat_score": 2,
+    "priority": "LOW",
+    "mitre_tactic": "Reconnaissance",
+    "mitre_technique": "T1046 - Network Service Scanning",
+    "risk_score": 6
+}

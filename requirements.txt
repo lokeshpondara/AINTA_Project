@@ -1,7 +1,7 @@
-scapy
+atwscapy
 pandas
 numpy
-scikit-learn
+scikit-learn==1.7.1
 streamlit
 matplotlib
 pydeck
@@ -11,4 +11,8 @@ plotly
 torch
 torch-geometric
 pyyaml
+pywin32
+python-dotenv>=1.0.0
+geoip2
+streamlit-autorefresh
 pywin32

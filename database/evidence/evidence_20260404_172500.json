@@ -1,0 +1,15 @@
+{
+    "timestamp": "Sat Apr  4 17:24:59 2026",
+    "src_ip": "92.223.76.254",
+    "attack": "Suspicious Activity",
+    "packet_rate": 32.86689711511408,
+    "severity": 4,
+    "confidence": 0,
+    "country": "Hong Kong",
+    "epoch": 1775303699.9469483,
+    "threat_score": 2,
+    "priority": "LOW",
+    "mitre_tactic": "Reconnaissance",
+    "mitre_technique": "T1046 - Network Service Scanning",
+    "risk_score": 8
+}

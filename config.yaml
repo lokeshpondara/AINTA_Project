@@ -12,8 +12,8 @@ response:
   block_threshold: 'HIGH'
   smtp_server: 'smtp.gmail.com'
   smtp_port: 587
-
-  smtp_pass: 'bwitebhaunjvnspp'
+  smtp_user: aintaproject@gmail.com
+  smtp_pass: 'duix nhot wkda rseu'  # From alerts section
   email_enabled: true
   slack_enabled: false
   slack_webhook: ''

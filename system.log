@@ -2746,3 +2746,68 @@
 2026-03-29 19:32:09,182 - ERROR - Monitoring error: int too large to convert to float
 2026-03-29 19:32:35,466 - ERROR - Monitoring error: int too large to convert to float
 2026-03-29 19:33:01,941 - ERROR - Monitoring error: int too large to convert to float
+2026-04-04 15:36:42,388 - ERROR - 13 values for 14 columns
+2026-04-04 15:36:51,064 - ERROR - 13 values for 14 columns
+2026-04-04 15:36:59,093 - ERROR - 13 values for 14 columns
+2026-04-04 15:37:07,124 - ERROR - 13 values for 14 columns
+2026-04-04 15:37:16,783 - ERROR - 13 values for 14 columns
+2026-04-04 15:37:24,828 - ERROR - 13 values for 14 columns
+2026-04-04 15:37:33,900 - ERROR - 13 values for 14 columns
+2026-04-04 15:37:46,957 - ERROR - 13 values for 14 columns
+2026-04-04 15:38:00,078 - ERROR - 13 values for 14 columns
+2026-04-04 15:38:08,705 - ERROR - 13 values for 14 columns
+2026-04-04 15:38:32,010 - ERROR - 13 values for 14 columns
+2026-04-04 15:38:40,084 - ERROR - 13 values for 14 columns
+2026-04-04 15:38:49,288 - ERROR - 13 values for 14 columns
+2026-04-04 15:38:57,343 - ERROR - 13 values for 14 columns
+2026-04-04 15:39:06,184 - ERROR - 13 values for 14 columns
+2026-04-04 15:39:14,218 - ERROR - 13 values for 14 columns
+2026-04-04 15:39:32,389 - ERROR - 13 values for 14 columns
+2026-04-04 15:39:50,485 - ERROR - 13 values for 14 columns
+2026-04-04 15:40:03,630 - ERROR - 13 values for 14 columns
+2026-04-04 15:40:11,722 - ERROR - 13 values for 14 columns
+2026-04-04 15:40:20,832 - ERROR - 13 values for 14 columns
+2026-04-04 15:40:34,031 - ERROR - 13 values for 14 columns
+2026-04-04 15:40:52,121 - ERROR - 13 values for 14 columns
+2026-04-04 15:41:00,188 - ERROR - 13 values for 14 columns
+2026-04-04 15:41:08,236 - ERROR - 13 values for 14 columns
+2026-04-04 15:41:31,522 - ERROR - 13 values for 14 columns
+2026-04-04 15:41:39,561 - ERROR - 13 values for 14 columns
+2026-04-04 15:41:52,617 - ERROR - 13 values for 14 columns
+2026-04-04 15:42:00,742 - ERROR - 13 values for 14 columns
+2026-04-04 15:42:08,777 - ERROR - 13 values for 14 columns
+2026-04-04 15:42:31,974 - ERROR - 13 values for 14 columns
+2026-04-04 15:42:40,007 - ERROR - 13 values for 14 columns
+2026-04-04 15:42:48,075 - ERROR - 13 values for 14 columns
+2026-04-04 15:43:01,240 - ERROR - 13 values for 14 columns
+2026-04-04 15:43:09,269 - ERROR - 13 values for 14 columns
+2026-04-04 15:43:32,452 - ERROR - 13 values for 14 columns
+2026-04-04 15:43:50,544 - ERROR - 13 values for 14 columns
+2026-04-04 15:44:51,394 - ERROR - 13 values for 14 columns
+2026-04-04 15:44:59,443 - ERROR - 13 values for 14 columns
+2026-04-04 15:45:35,423 - ERROR - 13 values for 14 columns
+2026-04-04 15:45:43,458 - ERROR - 13 values for 14 columns
+2026-04-04 15:46:01,639 - ERROR - 13 values for 14 columns
+2026-04-04 15:46:19,781 - ERROR - 13 values for 14 columns
+2026-04-04 15:46:28,863 - ERROR - 13 values for 14 columns
+2026-04-04 15:46:36,901 - ERROR - 13 values for 14 columns
+2026-04-04 15:46:50,671 - ERROR - 13 values for 14 columns
+2026-04-04 15:47:33,620 - ERROR - 13 values for 14 columns
+2026-04-04 15:47:42,375 - ERROR - 13 values for 14 columns
+2026-04-04 15:48:14,915 - ERROR - 13 values for 14 columns
+2026-04-04 15:48:22,950 - ERROR - 13 values for 14 columns
+2026-04-04 15:49:15,874 - ERROR - 13 values for 14 columns
+2026-04-04 15:49:23,938 - ERROR - 13 values for 14 columns
+2026-04-04 15:49:52,292 - ERROR - 13 values for 14 columns
+2026-04-04 15:50:00,433 - ERROR - 13 values for 14 columns
+2026-04-04 15:52:03,283 - ERROR - 13 values for 14 columns
+2026-04-04 15:52:11,332 - ERROR - 13 values for 14 columns
+2026-04-04 15:52:24,442 - ERROR - 13 values for 14 columns
+2026-04-04 15:52:32,569 - ERROR - 13 values for 14 columns
+2026-04-04 15:52:41,480 - ERROR - 13 values for 14 columns
+2026-04-04 16:11:47,310 - ERROR - cannot import name 'MimeText' from 'email.mime.text' (C:\Python313\Lib\email\mime\text.py)
+2026-04-04 16:15:04,899 - ERROR - name 'MimeText' is not defined
+2026-04-04 16:15:08,037 - ERROR - name 'MimeText' is not defined
+2026-04-04 16:15:11,299 - ERROR - name 'MimeText' is not defined
+2026-04-05 17:02:03,243 - ERROR - index 0 is out of bounds for dimension 0 with size 0
+2026-04-05 17:04:29,789 - ERROR - index 0 is out of bounds for dimension 0 with size 0

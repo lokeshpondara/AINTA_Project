@@ -23,11 +23,11 @@ def build_features(flows):
         avg_packet_size = byte_count / packet_count if packet_count > 0 else 0
 
         rows.append({
-            "Flow Duration": float(duration),
-            "Total Fwd Packets": float(packet_count),
-            "Flow Packets/s": float(packets_per_sec),
-            "Flow Bytes/s": float(bytes_per_sec),
-            "Average Packet Size": float(avg_packet_size)
+            "Flow Duration": pd.to_numeric(duration, errors='coerce'),
+            "Total Fwd Packets": pd.to_numeric(packet_count, errors='coerce'),
+            "Flow Packets/s": pd.to_numeric(packets_per_sec, errors='coerce'),
+            "Flow Bytes/s": pd.to_numeric(bytes_per_sec, errors='coerce'),
+            "Average Packet Size": pd.to_numeric(avg_packet_size, errors='coerce')
         })
 
     # ---------------- DEBUG ----------------
@@ -36,7 +36,10 @@ def build_features(flows):
         print("[ERROR] No features generated from flows")
         return pd.DataFrame()
 
-    df = pd.DataFrame(rows)
+    df = pd.DataFrame(rows).fillna(0.0).astype('float64')
+
+    # GNN graph ready (Phase 5)
+    df["graph_id"] = range(len(df))  # temporal node id
 
     # ---------------- ENSURE COLUMN ORDER ----------------
     expected_columns = [
