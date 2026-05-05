@@ -9,3 +9,11 @@ __pycache__/
 *.pyc
 .env
 
+# Data/logs/evidence (added for GitHub upload cleanup)
+database/evidence/
+DATA/
+**/evidence*.json
+pyproject.toml
+*.db-shm
+*.db-wal
+
