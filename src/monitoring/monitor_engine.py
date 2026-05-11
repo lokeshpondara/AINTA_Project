@@ -69,6 +69,8 @@ def start_monitoring():
             if not packet_buffer:
                 continue
 
+            print(f"[DEBUG] Captured {len(packet_buffer)} packets")
+
             flows = {}
 
             for pkt in packet_buffer:
@@ -86,27 +88,40 @@ def start_monitoring():
 
                 flows[key] = flow
 
+            print(f"[DEBUG] Extracted {len(flows)} flows")
+
             if not flows:
                 continue
 
-            features = build_features(flows)
-            if features.empty:
+            try:
+                features = build_features(flows)
+                print(f"[DEBUG] Features shape: {features.shape}")
+                if features.empty:
+                    print("[WARNING] Features empty, skipping")
+                    continue
+
+                predictions, scores = detect(model, features)
+                print(f"[DEBUG] Predictions: {len(predictions)}")
+
+                if len(predictions) == 0:
+                    continue
+                
+                # Phase 5 GNN (graceful fallback)
+                try:
+                    import numpy as np
+                    from src.detection.gnn_detector import load_gnn_model, detect_gnn
+                    gnn_model, scaler = load_gnn_model()
+                    if gnn_model:
+                        gnn_scores = detect_gnn(gnn_model, scaler, features)
+                        scores = np.maximum(scores, np.array(gnn_scores))
+                except ImportError:
+                    print("GNN fallback: using IsolationForest only")
+            except Exception as fe:
+                print(f"[ERROR] Features/Detect failed: {fe}")
+                logging.error(f"Features error: {fe}")
                 continue
 
-            predictions, scores = detect(model, features)
-            
-            # Phase 5 GNN (graceful fallback)
-            try:
-                import numpy as np
-                from src.detection.gnn_detector import load_gnn_model, detect_gnn
-                gnn_model, scaler = load_gnn_model()
-                if gnn_model:
-                    gnn_scores = detect_gnn(gnn_model, scaler, features)
-                    scores = np.maximum(scores, np.array(gnn_scores))
-            except ImportError:
-                print("GNN fallback: using IsolationForest only")
-
-            for flow, pred, score in zip(flows.values(), predictions, scores):
+            for flow, pred, score in zip(list(flows.values()), predictions, scores):
 
                 src_ip = flow.get("src")
                 packet_rate = flow.get("packet_rate", 0)

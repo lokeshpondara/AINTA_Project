@@ -40,18 +40,22 @@ def init_db():
 
 
 def insert_alert(timestamp, src_ip, attack_type, packet_rate, severity,
-                 confidence=0, country='unknown', isp='unknown', latitude=0.0, longitude=0.0, risk_score=0, priority='LOW', mitre_tactic='unknown', mitre_technique='unknown'):
+                 confidence=0, country='unknown', isp='unknown', latitude=0.0, longitude=0.0,
+                 risk_score=0, priority='LOW', mitre_tactic='unknown', mitre_technique='unknown'):
 
     conn = get_connection()
     cursor = conn.cursor()
 
     cursor.execute("""
     INSERT OR IGNORE INTO alerts (
-        timestamp, src_ip, attack_type, packet_rate,
-        severity, confidence, country, isp, latitude, longitude
+        timestamp, src_ip, attack_type, packet_rate, severity, confidence,
+        country, isp, latitude, longitude, risk_score, priority,
+        mitre_tactic, mitre_technique
     )
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    """, (timestamp, src_ip, attack_type, packet_rate, severity, confidence, country, isp, latitude, longitude))
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    """, (timestamp, src_ip, attack_type, packet_rate, severity, confidence,
+          country, isp, latitude, longitude, risk_score, priority,
+          mitre_tactic, mitre_technique))
 
     conn.commit()
     conn.close()
