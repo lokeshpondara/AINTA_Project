@@ -1,4 +1,4 @@
-atwscapy
+scapy
 pandas
 numpy
 scikit-learn==1.7.1
